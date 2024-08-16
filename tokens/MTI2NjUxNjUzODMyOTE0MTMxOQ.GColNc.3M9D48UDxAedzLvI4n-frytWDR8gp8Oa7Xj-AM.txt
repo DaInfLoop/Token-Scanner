@@ -1,0 +1,8 @@
+===
+Token Scanner type: Discord
+Your token was found here: https://discord.com/channels/437048931827056642/578626267222638602
+===
+
+MTI2NjUxNjUzODMyOTE0MTMxOQ.GColNc.3M9D48UDxAedzLvI4n-frytWDR8gp8Oa7Xj-AM
+
+(As a rule of thumb, don't post your Discord token anywhere, even if you immediately delete it. People can still grab the token and use it maliciously!)
